@@ -125,3 +125,7 @@ Run end to end tests with
 This will open the Cypress test runner. When it's open, select a test file to run.
 
 **Note:** Be sure to complete the 'Getting Started' section before running these tests. These Cypress tests will connect to real Twilio rooms and real Twilio conversations, so you may be billed for any time that is used.
+
+## Acknowledgment
+
+[Twilio Video React APP](https://github.com/twilio/twilio-video-app-react)
