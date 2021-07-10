@@ -6,6 +6,20 @@ Multi User Video Chat Application built with [Twilio's Programmable Video JS SDK
 
 ![App Preview](https://user-images.githubusercontent.com/12685223/94631109-cfca1c80-0284-11eb-8b72-c97276cf34e4.png)
 
+## Features
+
+The Video app has the following features:
+
+- [x] Video conferencing with real-time video and audio
+- [x] Chat support for textual and file-based messaging
+- [x] Enable/disable camera
+- [x] Mute/unmute mic
+- [x] Screen sharing
+- [x] Dominant speaker indicator
+- [x] Network quality indicator
+- [x] Defines participant bandwidth usage with the Bandwidth Profile API
+- [x] Start and stop recording with the Recording Rules API
+
 ## Prerequisites
 
 You must have the following installed:
@@ -34,20 +48,6 @@ This app requires an additional plugin. Install the CLI plugin with:
     $ twilio plugins:install @twilio-labs/plugin-rtc
 
 **Note:** If you have previously installed the `@twilio-labs/plugin-rtc` plugin, please make sure that you are using the most recent version. You can upgrade the plugin by running `twilio plugins:update`. The chat feature requires version 0.8.1 or greater of `@twilio-labs/plugin-rtc`.
-
-## Features
-
-The Video app has the following features:
-
-- [x] Video conferencing with real-time video and audio
-- [x] Chat support for textual and file-based messaging
-- [x] Enable/disable camera
-- [x] Mute/unmute mic
-- [x] Screen sharing
-- [x] Dominant speaker indicator
-- [x] Network quality indicator
-- [x] Defines participant bandwidth usage with the Bandwidth Profile API
-- [x] Start and stop recording with the Recording Rules API
 
 ### Running a local token server
 
@@ -125,3 +125,7 @@ Run end to end tests with
 This will open the Cypress test runner. When it's open, select a test file to run.
 
 **Note:** Be sure to complete the 'Getting Started' section before running these tests. These Cypress tests will connect to real Twilio rooms and real Twilio conversations, so you may be billed for any time that is used.
+
+## Acknowledgment
+
+[Twilio Video React APP](https://github.com/twilio/twilio-video-app-react)
