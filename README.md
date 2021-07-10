@@ -126,6 +126,10 @@ This will open the Cypress test runner. When it's open, select a test file to ru
 
 **Note:** Be sure to complete the 'Getting Started' section before running these tests. These Cypress tests will connect to real Twilio rooms and real Twilio conversations, so you may be billed for any time that is used.
 
+## Agile Methodology
+
+Inclusion of chat feature as part of the Adapt phase can be easily removed by just changing an environment variable if not found suitable and can be easily updated as well, without distrupting the working of the entire application.
+
 ## Acknowledgment
 
 [Twilio Video React APP](https://github.com/twilio/twilio-video-app-react)
