@@ -12,15 +12,15 @@ Multi User Video Chat Application built with [Twilio's Programmable Video JS SDK
 
 The Video app has the following features:
 
-- [x] Video conferencing with real-time video and audio
-- [x] Chat support for textual and file-based messaging
-- [x] Enable/disable camera
-- [x] Mute/unmute mic
-- [x] Screen sharing
-- [x] Dominant speaker indicator
-- [x] Network quality indicator
-- [x] Defines participant bandwidth usage with the Bandwidth Profile API
-- [x] Start and stop recording with the Recording Rules API
+:heavy_check_mark: Video conferencing with real-time video and audio\
+:heavy_check_mark: Chat support for textual and file-based messaging\
+:heavy_check_mark: Enable/disable camera\
+:heavy_check_mark: Mute/unmute mic\
+:heavy_check_mark: Screen sharing\
+:heavy_check_mark: Dominant speaker indicator\
+:heavy_check_mark: Network quality indicator\
+:heavy_check_mark: Defines participant bandwidth usage with the Bandwidth Profile API\
+:heavy_check_mark: Start and stop recording with the Recording Rules API\
 
 ## Prerequisites
 
