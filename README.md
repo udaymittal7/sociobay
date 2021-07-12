@@ -130,7 +130,7 @@ This will open the Cypress test runner. When it's open, select a test file to ru
 
 ## Agile Methodology
 
-Inclusion of chat feature as part of the Adapt phase can be easily removed by just changing an environment variable if not found suitable and can be easily updated as well, without distrupting the working of the entire application.
+Keeping in mind the Agile Methodology, inclusion of chat feature as part of the Adapt phase can be easily removed by just changing an environment variable if not found suitable and can be easily updated as well, without distrupting the working of the entire application. See [.env.example](.env.example) for information on that environment variable ( REACT_APP_DISABLE_TWILIO_CONVERSATIONS ).
 
 ## Acknowledgment
 
