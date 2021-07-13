@@ -19,8 +19,7 @@ The Video app has the following features:
 :heavy_check_mark: Screen sharing\
 :heavy_check_mark: Dominant speaker indicator\
 :heavy_check_mark: Network quality indicator\
-:heavy_check_mark: Defines participant bandwidth usage with the Bandwidth Profile API\
-:heavy_check_mark: Start and stop recording with the Recording Rules API\
+:heavy_check_mark: Defines participant bandwidth usage with the Bandwidth Profile API
 
 ## Prerequisites
 
