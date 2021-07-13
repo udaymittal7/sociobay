@@ -2,6 +2,8 @@
 
 #### Live Version: [Here](https://video-app-0109-4335-dev.twil.io/?passcode=92537801094335)
 
+##### NOTE - If the link asks for password in landing page, it is '92537801094335'. Twilio deployment has added the passcode feature for security purposes. Without it, anyone can use the video app and incur charges on my Twilio account.
+
 ## What is it
 
 Multi User Video Chat Application built with [Twilio's Programmable Video JS SDK](https://github.com/twilio/twilio-video.js), [Twilio's Conversations JS SDK](https://www.npmjs.com/package/@twilio/conversations), and [Create React App](https://github.com/facebook/create-react-app).
