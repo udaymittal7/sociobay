@@ -1,4 +1,8 @@
-# SocioBay
+# [SocioBay](https://video-app-0109-4335-dev.twil.io/?passcode=92537801094335)
+
+#### Live Version: [Here](https://video-app-0109-4335-dev.twil.io/?passcode=92537801094335)
+
+##### NOTE - If the link asks for password in landing page, it is '92537801094335'. Twilio deployment has added the passcode feature for security purposes. Without it, anyone can use the video app and incur charges on my Twilio account.
 
 ## What is it
 
@@ -10,15 +14,14 @@ Multi User Video Chat Application built with [Twilio's Programmable Video JS SDK
 
 The Video app has the following features:
 
-- [x] Video conferencing with real-time video and audio
-- [x] Chat support for textual and file-based messaging
-- [x] Enable/disable camera
-- [x] Mute/unmute mic
-- [x] Screen sharing
-- [x] Dominant speaker indicator
-- [x] Network quality indicator
-- [x] Defines participant bandwidth usage with the Bandwidth Profile API
-- [x] Start and stop recording with the Recording Rules API
+:heavy_check_mark: Video conferencing with real-time video and audio\
+:heavy_check_mark: Chat support for textual and file-based messaging\
+:heavy_check_mark: Enable/disable camera\
+:heavy_check_mark: Mute/unmute mic\
+:heavy_check_mark: Screen sharing\
+:heavy_check_mark: Dominant speaker indicator\
+:heavy_check_mark: Network quality indicator\
+:heavy_check_mark: Defines participant bandwidth usage with the Bandwidth Profile API
 
 ## Prerequisites
 
@@ -128,7 +131,7 @@ This will open the Cypress test runner. When it's open, select a test file to ru
 
 ## Agile Methodology
 
-Inclusion of chat feature as part of the Adapt phase can be easily removed by just changing an environment variable if not found suitable and can be easily updated as well, without distrupting the working of the entire application.
+Keeping in mind the Agile Methodology, inclusion of chat feature as part of the Adapt phase can be easily removed by just changing an environment variable if not found suitable and can be easily updated as well, without distrupting the working of the entire application. See [.env.example](.env.example) for information on that environment variable ( REACT_APP_DISABLE_TWILIO_CONVERSATIONS ).
 
 ## Acknowledgment
 
