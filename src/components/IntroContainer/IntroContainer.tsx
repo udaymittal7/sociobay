@@ -11,7 +11,7 @@ const useStyles = makeStyles((theme: Theme) => ({
     display: 'flex',
     alignItems: 'center',
     justifyContent: 'center',
-    background: `url('https://image.freepik.com/free-photo/dark-blue-texture-cement-wall-background_28629-1627.jpg')`,
+    background: `url('https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm33-chim-01-c-wall_0.jpg?w=1000&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=562b1b37366ac45723f256c5e6bf84ab')`,
     height: '100%',
   },
   container: {
