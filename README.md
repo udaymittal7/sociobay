@@ -1,8 +1,8 @@
-# [SocioBay](https://video-app-0109-4335-dev.twil.io?passcode=75938501094335)
+# [SocioBay](https://video-app-0109-4335-dev.twil.io?passcode=12909901094335)
 
-#### Live Version: [Here](https://video-app-0109-4335-dev.twil.io?passcode=75938501094335)
+#### Live Version: [Here](https://video-app-0109-4335-dev.twil.io?passcode=12909901094335)
 
-##### NOTE - If the link asks for password in landing page, it is '75938501094335'. Twilio deployment has added the passcode feature for security purposes. Without it, anyone can use the video app and incur charges on my Twilio account.
+##### NOTE - If the link asks for password in landing page, it is '12909901094335'. Twilio deployment has added the passcode feature for security purposes. Without it, anyone can use the video app and incur charges on my Twilio account.
 
 ## What is it
 
@@ -106,28 +106,6 @@ Build the React app with
     $ npm run build
 
 This script will build the static assets for the application in the `build/` directory.
-
-### Tests
-
-This application has unit tests (using [Jest](https://jestjs.io/)) and end-to-end tests (using [Cypress](https://www.cypress.io/)). You can run the tests with the following scripts.
-
-#### Unit Tests
-
-Run unit tests with
-
-    $ npm test
-
-This will run all unit tests with Jest and output the results to the console.
-
-#### E2E Tests
-
-Run end to end tests with
-
-    $ npm run cypress:open
-
-This will open the Cypress test runner. When it's open, select a test file to run.
-
-**Note:** Be sure to complete the 'Getting Started' section before running these tests. These Cypress tests will connect to real Twilio rooms and real Twilio conversations, so you may be billed for any time that is used.
 
 ## Agile Methodology
 
