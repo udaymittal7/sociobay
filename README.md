@@ -2,7 +2,7 @@
 
 #### Live Version: [Here](https://video-app-0109-4335-dev.twil.io?passcode=40831301094335)
 
-##### NOTE - If the link asks for password in landing page, it is '12653901094335'. Twilio deployment has added the passcode feature for security purposes. Without it, anyone can use the video app and incur charges on my Twilio account.
+##### NOTE - If the link asks for password in landing page, it is '12653901094335'. Twilio deployment has added the passcode feature for security purposes. Without it, anyone can use the video app and incur charges on my Twilio account. Also, it needs redeployment every week as the password get expired after every week.
 
 ## What is it
 
